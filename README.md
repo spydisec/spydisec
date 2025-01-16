@@ -6,14 +6,14 @@ I'm currently in the process of giving my profile a makeover. 🎨✨ Stay tuned
 
 ## About Me
 
-- 🔭 **I’m currently working on** [Your Current Project](#)
-- 🌱 **I’m currently learning** [What You're Learning](#)
-- 👯 **I’m looking to collaborate on** [Areas of Collaboration](#)
-- 🤔 **I’m looking for help with** [Areas You Need Help](#)
-- 💬 **Ask me about** [Your Expertise](#)
-- 📫 **How to reach me:** [your.email@example.com](mailto:your.email@example.com)
+- 🔭 **I’m currently working on** [Cyber Security Engineer](#)
+- 🌱 **I’m currently learning** [Threat Intel](#)
+- 👯 **I’m looking to collaborate on** [Threat Intel Sharing](#)
+- 🤔 **I’m looking for help with** [Mentoring](#)
+- 💬 **Ask me about** [Linux/Azure/etc](#)
+- 📫 **How to reach me:** [spyditi@proton.me](mailto:spyditi@proton.me) - [PGP Key](https://pastebin.com/igL3mGVb)
 - 😄 **Pronouns:** [He/Him]
-- ⚡ **Fun fact:** [A Fun Fact About You]
+- ⚡ **Fun fact:** [Still thinking]
 
 ## 🛠️ Technologies & Tools
 
