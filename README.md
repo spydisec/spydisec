@@ -12,8 +12,8 @@ I'm currently in the process of giving my profile a makeover. 🎨✨ Stay tuned
 - 🤔 **I’m looking for help with** [Mentoring](#)
 - 💬 **Ask me about** [Linux/Azure/etc](#)
 - 📫 **How to reach me:** [spyditi@proton.me](mailto:spyditi@proton.me) - [PGP Key](https://pastebin.com/igL3mGVb)
-- 😄 **Pronouns:** [He/Him]
-- ⚡ **Fun fact:** [Why don’t hackers ever get lost? Because they always find a backdoor!]
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** Why don’t hackers ever get lost? Because they always find a backdoor!
 
 ## 🛠️ Technologies & Tools
 
