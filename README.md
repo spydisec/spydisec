@@ -24,7 +24,7 @@ I'm currently in the process of giving my profile a makeover. 🎨✨ Stay tuned
 
 ## 📈 GitHub Stats
 
-![spydisec's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydisec&show_icons=true&theme=radical)
+![spydisec's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydisec&show_icons=true)
 
 ## 🌐 Connect with Me
 
