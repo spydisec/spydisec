@@ -10,7 +10,7 @@ I'm currently in the process of giving my profile a makeover. 🎨✨ Stay tuned
 - 🌱 **I’m currently learning** [Threat Intel](#)
 - 👯 **I’m looking to collaborate on** [Threat Intel Sharing](#)
 - 🤔 **I’m looking for help with** [Mentoring](#)
-- 💬 **Ask me about** [Linux/Azure/etc](#)
+- 💬 **Ask me about** [Linux/Azure/AWS/etc](#)
 - 📫 **How to reach me:** [spyditi@proton.me](mailto:spyditi@proton.me) - [PGP Key](https://pastebin.com/igL3mGVb)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Why don’t hackers ever get lost? Because they always find a backdoor!
@@ -30,17 +30,3 @@ I'm currently in the process of giving my profile a makeover. 🎨✨ Stay tuned
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-<!--
-**spydisec/spydisec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
