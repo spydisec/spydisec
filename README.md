@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=720&height=48&lines=Cyber+Security+Consultant+%7C+Melbourne;Threat+Intelligence+%26+Detection+Engineering;Hardening+Azure+%C2%B7+M365+%C2%B7+AWS;%24+whoami+-%3E+threat+intel+analyst" alt="Cyber Security Consultant — Threat Intelligence & Detection Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=720&height=48&lines=Cyber+Security+Consultant;Threat+Intelligence+%26+Detection+Engineering;Hardening+Azure+%C2%B7+M365+%C2%B7+AWS;%24+whoami+-%3E+threat+intel+analyst" alt="Cyber Security Consultant — Threat Intelligence & Detection Engineering" />
 
 # Chirag Shah &nbsp;`//`&nbsp; Spydi Sec
 
-#### Cyber Security Consultant · Melbourne, Australia · `UTC +10`
+#### Cyber Security Consultant · Australia
 
 <img src="https://komarev.com/ghpvc/?username=spydisec&label=Profile%20views&color=39d353&style=flat-square" alt="Profile views" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-### `$ whoami`
+## About
 
 > 6+ years across **cloud security, detection engineering and threat intelligence** — hardening regulated-client estates and shipping open-source threat intel.
 
@@ -28,7 +28,7 @@
 
 ---
 
-### `$ cat tech-stack`
+## Tech & Tools
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-### `$ ls ~/certifications`
+## Certifications
 
 <div align="center">
 
@@ -73,39 +73,13 @@
 
 ---
 
-### `$ ls ~/featured-work`
+## Activity
 
 <div align="center">
 
-<a href="https://github.com/spydisec/spydithreatintel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spydisec&repo=spydithreatintel&show_owner=false&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="spydithreatintel" /></a>
-<a href="https://github.com/spydisec/honeypot-analyses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spydisec&repo=honeypot-analyses&show_owner=false&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="honeypot-analyses" /></a>
-<br/>
-<a href="https://github.com/spydisec/PDFtoOFX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spydisec&repo=PDFtoOFX&show_owner=false&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="PDFtoOFX" /></a>
-<a href="https://github.com/spydisec/spydi-n8n-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spydisec&repo=spydi-n8n-automation&show_owner=false&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="spydi-n8n-automation" /></a>
-
-</div>
-
----
-
-### `$ ./github-stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=spydisec&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spydisec&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D" alt="Top languages" />
-
-<br/><br/>
-
-<!-- Contribution activity (trending) -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=spydisec&bg_color=0D1117&color=39D353&line=39D353&point=56D4DD&area=true&area_color=39D353&title_color=39D353&hide_border=true" alt="Contribution activity graph" />
 
-</div>
-
----
-
-### `$ ./contribution-snake`
-
-<div align="center">
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spydisec/spydisec/output/github-contribution-grid-snake-dark.svg" />
@@ -117,7 +91,7 @@
 
 ---
 
-### `$ ./connect`
+## Connect
 
 <div align="center">
 
