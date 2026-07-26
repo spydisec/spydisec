@@ -53,6 +53,12 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge" alt="Pulumi" />
 
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/MCP-1A1F36?style=for-the-badge" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/AI_Security-6E40C9?style=for-the-badge" alt="AI Security" />
+
 </div>
 
 ---
@@ -61,13 +67,20 @@
 
 <div align="center">
 
+**Cloud & Identity**
+
 <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" />
 <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge" alt="AZ-900" />
+
+**Security**
+
 <img src="https://img.shields.io/badge/Wiz-Partner_Technical_Accreditation-1A1F36?style=for-the-badge" alt="Wiz Partner Technical Accreditation" />
-<br/>
+<img src="https://img.shields.io/badge/AZ--500_Azure_Security_Engineer-In_Progress-D29922?style=for-the-badge&labelColor=1F6FEB" alt="AZ-500 in progress" />
+
+**Network & Edge**
+
 <img src="https://img.shields.io/badge/Cloudflare-Implementation_Specialist-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Implementation Specialist" />
 <img src="https://img.shields.io/badge/Cloudflare-Accredited_Configuration_Engineer-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare ACE" />
-<img src="https://img.shields.io/badge/AZ--500_Azure_Security-In_Progress-D29922?style=for-the-badge&labelColor=1F6FEB" alt="AZ-500 in progress" />
 
 </div>
 
@@ -76,6 +89,11 @@
 ## Activity
 
 <div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=spydisec&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=spydisec&layout=pie&langs_count=6&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D" alt="Most used languages" />
+
+<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=spydisec&bg_color=0D1117&color=39D353&line=39D353&point=56D4DD&area=true&area_color=39D353&title_color=39D353&hide_border=true" alt="Contribution activity graph" />
 
