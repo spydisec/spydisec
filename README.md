@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=720&height=48&lines=Cyber+Security+Consultant;Threat+Intelligence+%26+Detection+Engineering;Hardening+Azure+%C2%B7+M365+%C2%B7+AWS;%24+whoami+-%3E+threat+intel+analyst" alt="Cyber Security Consultant — Threat Intelligence & Detection Engineering" />
 
-# Chirag Shah &nbsp;`//`&nbsp; Spydi Sec
+# Chirag Shah &nbsp;`//`&nbsp; spydisec
 
 #### Cyber Security Consultant · Australia
 
