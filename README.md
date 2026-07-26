@@ -90,8 +90,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=spydisec&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="GitHub stats" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=spydisec&layout=pie&langs_count=6&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_color=30363D" alt="Most used languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=spydisec&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="GitHub stats" />
 
 <br/>
 
