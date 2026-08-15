@@ -86,11 +86,25 @@
 
 ---
 
+## Featured Work
+
+<div align="center">
+
+<a href="https://github.com/spydisec/spydithreatintel"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=spydithreatintel&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="spydithreatintel — OSINT threat intel feeds" /></a>
+<a href="https://github.com/spydisec/honeypot-analyses"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=honeypot-analyses&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="honeypot-analyses — captured attack scripts" /></a>
+
+<a href="https://github.com/spydisec/PDFtoOFX"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=PDFtoOFX&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="PDFtoOFX — PDF bank statements to OFX" /></a>
+<a href="https://github.com/spydisec/spydi-n8n-automation"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=spydi-n8n-automation&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="spydi-n8n-automation — security automations" /></a>
+
+</div>
+
+---
+
 ## Threat Intel Contributions
 
 <div align="center">
 
-<a href="https://www.abuseipdb.com/user/186878" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="https://www.abuseipdb.com/contributor/186878.svg" alt="AbuseIPDB Contributor Badge" width="245" /></a>
+<a href="https://www.abuseipdb.com/user/186878" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="https://raw.githubusercontent.com/spydisec/spydisec/main/assets/abuseipdb-badge.svg" alt="AbuseIPDB Contributor — IPs reported" width="300" /></a>
 
 </div>
 

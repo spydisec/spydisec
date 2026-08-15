@@ -1,0 +1,42 @@
+name: Refresh AbuseIPDB Badge
+
+# The upstream badge is transparent with dark grey text, and AbuseIPDB ships its
+# background via an inline `style` attribute that GitHub's sanitizer strips — so
+# the badge is unreadable when embedded directly. This job bakes the background
+# in and commits the result, keeping the reported-IP count current.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: abuseipdb-badge
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild badge
+        run: |
+          chmod +x .github/scripts/build-abuseipdb-badge.sh
+          .github/scripts/build-abuseipdb-badge.sh 186878 assets/abuseipdb-badge.svg
+
+      - name: Commit if the count changed
+        run: |
+          if [ -z "$(git status --porcelain assets/abuseipdb-badge.svg)" ]; then
+            echo "No change to the badge; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/abuseipdb-badge.svg
+          git commit -m "chore: refresh AbuseIPDB contributor badge"
+          git push
