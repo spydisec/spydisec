@@ -86,6 +86,16 @@
 
 ---
 
+## Threat Intel Contributions
+
+<div align="center">
+
+<a href="https://www.abuseipdb.com/user/186878" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="https://www.abuseipdb.com/contributor/186878.svg" alt="AbuseIPDB Contributor Badge" width="245" /></a>
+
+</div>
+
+---
+
 ## Activity
 
 <div align="center">
