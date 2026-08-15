@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<a href="https://www.abuseipdb.com/user/186878" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="https://raw.githubusercontent.com/spydisec/spydisec/main/assets/abuseipdb-badge.svg" alt="AbuseIPDB Contributor — IPs reported" width="300" /></a>
+<a href="https://www.abuseipdb.com/user/186878" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="assets/abuseipdb-badge.svg" alt="AbuseIPDB Contributor — IPs reported" width="300" /></a>
 
 </div>
 
