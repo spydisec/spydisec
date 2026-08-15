@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 100" width="400" height="100" role="img" aria-label="AbuseIPDB Contributor">
+  <defs>
+    <linearGradient id="abuseipdbBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3ad152" />
+      <stop offset="0.5" stop-color="#35c246" />
+      <stop offset="0.51" stop-color="#2fae3e" />
+      <stop offset="1" stop-color="#35c246" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="396" height="96" rx="10" fill="url(#abuseipdbBg)" stroke="#058403" stroke-width="4" />
   <svg version="1.1" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs>
-      <linearGradient id="abuseipdbBg" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#3ad152" />
-        <stop offset="0.5" stop-color="#35c246" />
-        <stop offset="0.51" stop-color="#2fae3e" />
-        <stop offset="1" stop-color="#35c246" />
-      </linearGradient>
-    </defs>
-    <rect x="2" y="2" width="396" height="96" rx="10" fill="url(#abuseipdbBg)" stroke="#058403" stroke-width="4" />
     <defs>
       <linearGradient id="f" x1="54.759" x2="49.053" y1="600.57" y2="631.41"
         gradientTransform="scale(1.5608 .64069)" gradientUnits="userSpaceOnUse" xlink:href="#a" />
@@ -25,15 +26,6 @@
       </linearGradient>
     </defs>
     <svg x="10" y="0" width="100" height="100" version="1.1" viewBox="0 0 162.18244 162.18244"
-    <defs>
-      <linearGradient id="abuseipdbBg" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#3ad152" />
-        <stop offset="0.5" stop-color="#35c246" />
-        <stop offset="0.51" stop-color="#2fae3e" />
-        <stop offset="1" stop-color="#35c246" />
-      </linearGradient>
-    </defs>
-    <rect x="2" y="2" width="396" height="96" rx="10" fill="url(#abuseipdbBg)" stroke="#058403" stroke-width="4" />
       xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
       xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
       xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -72,3 +64,4 @@
          Reported</text>
     </g>
   </svg>
+</svg>
