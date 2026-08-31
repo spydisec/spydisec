@@ -93,7 +93,7 @@
 <a href="https://github.com/spydisec/spydithreatintel"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=spydithreatintel&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="spydithreatintel — OSINT threat intel feeds" /></a>
 <a href="https://github.com/spydisec/honeypot-analyses"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=honeypot-analyses&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="honeypot-analyses — captured attack scripts" /></a>
 
-<a href="https://github.com/spydisec/WinLogKit"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=WinLogKit&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="WinLogKit — Windows event logging baselines in PowerShell" /></a>
+<a href="https://spydisec.github.io/WinLogKit/"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=WinLogKit&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="WinLogKit — Windows event logging baselines in PowerShell" /></a>
 <a href="https://github.com/spydisec/spydi-n8n-automation"><img src="https://github-stats-extended.vercel.app/api/pin/?username=spydisec&repo=spydi-n8n-automation&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=56D4DD&border_color=30363D" alt="spydi-n8n-automation — security automations" /></a>
 
 </div>
