@@ -29,7 +29,7 @@
       xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
       xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
       xmlns:xlink="http://www.w3.org/1999/xlink">
-      <g transform="translate(-16.984 -331)" fill-rule="evenodd">
+            <g transform="translate(-16.984 -331)" fill-rule="evenodd">
         <path
           d="m48.388 396.53c0.9599-4.2739 1.9198-33.716 10.559-33.241 30.717 0.94974 62.394-30.867 85.432 39.89 71.033 33.241 4.9391 59.953-51.295 57.579-55.567-2.3264-103.01-42.383-44.696-64.227z"
           fill-opacity=".992" />
@@ -58,7 +58,8 @@
         </g>
       </g>
     </svg>
-    <g style="font-weight: bold; font-family: Helvetica, Arial, sans-serif;">
+    <g style="font-weight: bold; font-family: Helvetica, Arial, sans-serif;"
+      >
       <text x="130" y="40" font-size="23">AbuseIPDB Contributor</text>
       <text x="130" y="80" font-size="22">52,841           IPs
          Reported</text>
