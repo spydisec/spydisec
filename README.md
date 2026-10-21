@@ -104,7 +104,9 @@
 
 <div align="center">
 
-<a href="https://www.abuseipdb.com/user/186878" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="assets/abuseipdb-badge.svg" alt="AbuseIPDB Contributor — IPs reported" width="300" /></a>
+<a href="https://www.abuseipdb.com/user/186878" title="View AbuseIPDB profile"><img src="assets/abuseipdb-badge.svg" alt="AbuseIPDB Contributor — IPs reported" width="300" /></a>
+&nbsp;&nbsp;
+<a href="https://community.abuse.ch/u/spydisec" title="View spydisec on abuse.ch Community"><img src="assets/abuse-ch-seeklogo.png" alt="abuse.ch — spydisec community profile" width="75" height="75" /></a>
 
 </div>
 
